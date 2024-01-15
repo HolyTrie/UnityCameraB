@@ -388,6 +388,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1028195352850901112, guid: 4d24d9eca2f445743b20fb96d814e626, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1028195352850901112, guid: 4d24d9eca2f445743b20fb96d814e626, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1028195352850901112, guid: 4d24d9eca2f445743b20fb96d814e626, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 4006608845741754983, guid: 4d24d9eca2f445743b20fb96d814e626, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4006608845741754983, guid: 4d24d9eca2f445743b20fb96d814e626, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4006608845741754983, guid: 4d24d9eca2f445743b20fb96d814e626, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7452174445602528209, guid: 4d24d9eca2f445743b20fb96d814e626, type: 3}
       propertyPath: m_Name
       value: CanvasSplit
