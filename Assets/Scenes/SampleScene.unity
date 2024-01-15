@@ -239,9 +239,61 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4452970330661912352, guid: df9c867c6ba047f46a723ed8d01121ee, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4452970330661912352, guid: df9c867c6ba047f46a723ed8d01121ee, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4452970330661912352, guid: df9c867c6ba047f46a723ed8d01121ee, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5632522182747610963, guid: df9c867c6ba047f46a723ed8d01121ee, type: 3}
       propertyPath: m_Name
       value: John
+      objectReference: {fileID: 0}
+    - target: {fileID: 5632522182747610963, guid: df9c867c6ba047f46a723ed8d01121ee, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5654463593007544526, guid: df9c867c6ba047f46a723ed8d01121ee, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5654463593007544526, guid: df9c867c6ba047f46a723ed8d01121ee, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5654463593007544526, guid: df9c867c6ba047f46a723ed8d01121ee, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162456499948122857, guid: df9c867c6ba047f46a723ed8d01121ee, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162456499948122857, guid: df9c867c6ba047f46a723ed8d01121ee, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162456499948122857, guid: df9c867c6ba047f46a723ed8d01121ee, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8949646910903143873, guid: df9c867c6ba047f46a723ed8d01121ee, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8949646910903143873, guid: df9c867c6ba047f46a723ed8d01121ee, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8949646910903143873, guid: df9c867c6ba047f46a723ed8d01121ee, type: 3}
+      propertyPath: m_Color.r
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -420,7 +472,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2209558273202643755, guid: 8e32a943a548a4f4ab3b6521917d118c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3
+      value: 3.5
       objectReference: {fileID: 0}
     - target: {fileID: 2209558273202643755, guid: 8e32a943a548a4f4ab3b6521917d118c, type: 3}
       propertyPath: m_LocalPosition.y
@@ -461,6 +513,14 @@ PrefabInstance:
     - target: {fileID: 2965361442275463412, guid: 8e32a943a548a4f4ab3b6521917d118c, type: 3}
       propertyPath: m_Name
       value: Shaggy
+      objectReference: {fileID: 0}
+    - target: {fileID: 3870955303569851761, guid: 8e32a943a548a4f4ab3b6521917d118c, type: 3}
+      propertyPath: MoveLeft.m_SingletonActionBindings.Array.data[0].m_Path
+      value: <Keyboard>/a
+      objectReference: {fileID: 0}
+    - target: {fileID: 3870955303569851761, guid: 8e32a943a548a4f4ab3b6521917d118c, type: 3}
+      propertyPath: MoveRight.m_SingletonActionBindings.Array.data[0].m_Path
+      value: <Keyboard>/d
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
